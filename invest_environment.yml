@@ -1,9 +1,0 @@
-name: invest
-channels:
-  - conda-forge
-dependencies:
-  - python=3.11
-  - natcap.invest=3.14.2  # pinned: newer versions (3.20+) have an SDR scripting
-                          # bug that crashes calculate_sediment_deposition
-  - geopandas
-  - rasterio
