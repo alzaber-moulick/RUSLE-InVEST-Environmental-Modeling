@@ -1,0 +1,13 @@
+name: rusle
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - rasterio
+  - geopandas
+  - scipy
+  - matplotlib
+  - pyyaml
+  - richdem
+  - pip
