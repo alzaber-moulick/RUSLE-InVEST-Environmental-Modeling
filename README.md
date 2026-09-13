@@ -35,6 +35,21 @@ The same inputs are then run through **InVEST's Sediment Delivery Ratio (SDR)** 
 
 Both models independently identify **2020 as the lowest-erosion year**, coinciding with peak vegetation cover following island afforestation, and **2015 as the highest**, when bareland dominated the island's surface. This land-cover-driven trend is robust to ±10% uncertainty in the R-factor and K-factor inputs (see `sensitivity_analysis.py`).
 
+### 📊 Spatial Outputs & Maps
+
+<img width="7017" height="2861" alt="invest_sed_export_all_years_hq" src="https://github.com/user-attachments/assets/79bc5310-76d4-4327-8f75-53ca8a6eb288" />
+
+<img width="6964" height="2861" alt="invest_usle_all_years_hq" src="https://github.com/user-attachments/assets/cb192f98-07ff-422b-9867-931f08b12df1" />
+
+<img width="10740" height="4001" alt="soil_loss_all_years_hq" src="https://github.com/user-attachments/assets/59d2a6ff-29a9-4f07-9650-205e4462ec22" />
+
+<img width="2669" height="1619" alt="sensitivity_summary" src="https://github.com/user-attachments/assets/3525c41a-e220-491f-8023-e022209b0f6a" />
+
+
+
+
+
+
 ## Setup
 
 ```bash
